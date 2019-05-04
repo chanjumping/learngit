@@ -5,3 +5,4 @@ change 1
 change 2
 change to branch issue
 conflick and another confilct
+test stash continue stash
