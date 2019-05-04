@@ -8,3 +8,4 @@ conflick and another confilct
 test stash continue stash
 test fetch and pull
 there must be something wrong
+maybe it is my fault
